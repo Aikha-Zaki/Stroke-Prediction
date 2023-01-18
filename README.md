@@ -31,7 +31,9 @@ According to the analysis, the classification accuracy of all models are ~ 95 pe
   - Decision Tree
   - KNN
   
-4) Shiny is the online tool allowing to upload your charts, maps and characterize and visualize them. Several interactive graphs are available with export options and more. The tool was created using R and Shiny. Below is the example of histogram that have been created using this tool.
+4) VISUALIZATION IN SHINY
+
+Shiny is the online tool allowing to upload your charts, maps and characterize and visualize them. Several interactive graphs are available with export options and more. The tool was created using R and Shiny. Below is the example of histogram that have been created using this tool.
 
 ![image](https://user-images.githubusercontent.com/116784311/213180980-697167f3-eedf-4ac0-b60f-55cdc8ffeb21.png)
 

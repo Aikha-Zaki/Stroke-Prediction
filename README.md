@@ -1,5 +1,5 @@
 # stroke-prediction
-the analysis both in R and Pyhton were done in Google colab
+The analysis both in R and Pyhton were done in Google colab
 
 # Introduction
 

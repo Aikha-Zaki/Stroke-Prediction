@@ -25,4 +25,5 @@ Pie charts were used in this analysis to depict the recurrence dispersion of the
 According to the analysis, the classification accuracy of all models are ~ 95 percent. However, since the sample size of patients with stroke is significantly smaller than the ones without stroke, the conclusion derived here is not applicable to the general population. The analysis can be further improved by using a larger dataset and other machine learning models.
 
  - Logical Regression
- - Decision Tree
+  - Decision Tree
+  - KNN

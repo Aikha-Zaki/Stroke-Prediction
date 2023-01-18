@@ -1,10 +1,12 @@
 # stroke-prediction
+# the analysis both in R and Pyhton were done in Google colab
+
 
 Stroke is a medical disorder that happens due to arteries rupture or blockage in the brain causing damage to the brain. It can cause serious long-term disability and in the worst cases, it might lead to death. The probable risk factors for stroke include hypertension, diabetes, smoking, age, sex, obesity, environment, and others.
 
 # Problem Statement 
 
-The objective of this project is to find the likeliness of a stroke happening in a person. Ideally, this project might provide initial insight into the early detection of stroke and obtain early treatment. Different machine learning models have been used to predict the possibility of a stroke to occur. The algorithm used in this project are logistic regression, KNN, and decision tree to train three different models for reliable prediction. This dataset is obtained from Kaggle and the analysis is carried out using R and Phyton language. 
+The objective of this project is to find the likeliness of a stroke happening in a person. Ideally, this project might provide initial insight into the early detection of stroke and obtain early treatment. Different machine learning models have been used to predict the possibility of a stroke to occur. The algorithm used in this project are logistic regression, KNN, and decision tree to train three different models for reliable prediction. This dataset is obtained from Kaggle and the analysis is carried out using R and Phyton language using Google Colab Platform. 
 
 # Dataset
 
@@ -27,3 +29,8 @@ According to the analysis, the classification accuracy of all models are ~ 95 pe
  - Logical Regression
   - Decision Tree
   - KNN
+  
+4) Shiny is the online tool allowing to upload your charts, maps and characterize and visualize them. Several interactive graphs are available with export options and more. The tool was created using R and Shiny. Below is the example of histogram that have been created using this tool.
+
+![image](https://user-images.githubusercontent.com/116784311/213180980-697167f3-eedf-4ac0-b60f-55cdc8ffeb21.png)
+

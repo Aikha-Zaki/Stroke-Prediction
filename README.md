@@ -1,6 +1,7 @@
 # stroke-prediction
-# the analysis both in R and Pyhton were done in Google colab
+the analysis both in R and Pyhton were done in Google colab
 
+# Introduction
 
 Stroke is a medical disorder that happens due to arteries rupture or blockage in the brain causing damage to the brain. It can cause serious long-term disability and in the worst cases, it might lead to death. The probable risk factors for stroke include hypertension, diabetes, smoking, age, sex, obesity, environment, and others.
 
